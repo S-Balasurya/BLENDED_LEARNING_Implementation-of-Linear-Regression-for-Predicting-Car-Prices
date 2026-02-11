@@ -8,18 +8,19 @@ To write a program to predict car prices using a linear regression model and tes
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+
+1. Linear Regression – Baseline model for price prediction.
+2. Decision Tree Regressor – Captures non-linear patterns in data.
+3. Random Forest Regressor – Improves accuracy using ensemble learning.
+4. Gradient Boosting Regressor – Reduces errors step-by-step for better prediction.
 
 ## Program:
 ```
-/*
+
  Program to implement linear regression model for predicting car prices and test assumptions.
 Developed by: Balasurya S
 RegisterNumber: 212225100003
-*/
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -68,8 +69,9 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 
+ ACTUAL PRICE VS PREDICTED PRICE
+<img width="868" height="468" alt="image" src="https://github.com/user-attachments/assets/9c61ea94-ec6d-4627-9989-9fed295917b7" />
 
 ## Result:
 Thus, the program to implement a linear regression model for predicting car prices is written and verified using Python programming, along with the testing of key assumptions for linear regression.
