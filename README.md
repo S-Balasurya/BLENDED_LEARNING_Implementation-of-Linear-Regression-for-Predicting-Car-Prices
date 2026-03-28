@@ -97,6 +97,7 @@ MODEL PERFORMANCE:
          
          MAE:   2892.63
          
+         
                                                  ACTUAL PRICE VS PREDICTED PRICE
 <img width="868" height="468" alt="image" src="https://github.com/user-attachments/assets/9c61ea94-ec6d-4627-9989-9fed295917b7" />
 
