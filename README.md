@@ -71,6 +71,21 @@ plt.show()
 
 ## Output:
 
+Name:BALASURYA S
+Reg. No:25000944
+MODEL COEFFICIENTS:
+  enginesize:    4523.40
+  horsepower:    1694.22
+     citympg:    -392.57
+  highwaympg:    -816.36
+   Intercept:   13223.41
+
+MODEL PERFORMANCE:
+         MSE:16471505.90
+        RMSE:   4058.51
+   R-squared:      0.79
+         MAE:   2892.63
+         
  ACTUAL PRICE VS PREDICTED PRICE
 <img width="868" height="468" alt="image" src="https://github.com/user-attachments/assets/9c61ea94-ec6d-4627-9989-9fed295917b7" />
 
